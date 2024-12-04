@@ -1,7 +1,7 @@
 {
   "name": "Master D.O.G.E",
   "symbol": "D.O.G.E",
-  "uri": "https://raw.githubusercontent.com/your-username/your-repo/main/my-solana-token.json",
+  "uri": "https://raw.githubusercontent.com/SMLLMYH/my-solana-token-metadata/refs/heads/main/my-solana-token.json",
   "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/your-username/your-repo/main/logo.png",
   "external_url": "https://www.deptofgovtefficiency.com/",
