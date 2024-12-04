@@ -1,0 +1,23 @@
+{
+  "name": "Master D.O.G.E",
+  "symbol": "D.O.G.E",
+  "uri": "https://raw.githubusercontent.com/your-username/your-repo/main/my-solana-token.json",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/your-username/your-repo/main/logo.png",
+  "external_url": "https://www.deptofgovtefficiency.com/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    }
+  ],
+  "description": "The Department Of Government Efficiency (D.O.G.E) is the brainchild of Elon Musk and Donald Trump. Trump has appointed Musk to head the Department and reign in US Government spending and waste. We support this initiative and plan to bring awareness to the movement."
+}
