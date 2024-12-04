@@ -2,7 +2,7 @@
   "name": "Master D.O.G.E",
   "symbol": "D.O.G.E",
   "uri": "https://raw.githubusercontent.com/SMLLMYH/my-solana-token-metadata/refs/heads/main/my-solana-token.json",
-  "seller_fee_basis_points": 500,
+  "seller_fee_basis_points": 25,
   "image": "https://i.postimg.cc/SKzRNPDy/check-5610944.png",
   "external_url": "https://www.deptofgovtefficiency.com/",
   "attributes": [
